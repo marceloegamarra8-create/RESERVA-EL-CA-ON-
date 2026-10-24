@@ -1,0 +1,6 @@
+{
+  "name": "Reserva El Cañón - Dra. Sara Faisal",
+  "description": "Sistema PWA de reserva del equipo proyector 'El Cañón' para docentes y personal de la Escuela Especial N° 1429 Dra. Sara Faisal, con sincronización automática a Google Sheets.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

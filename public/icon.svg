@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" fill="none">
+  <circle cx="50" cy="50" r="48" fill="#ffffff" stroke="#0284c7" stroke-width="4"/>
+  <!-- Stylized Protective Blue Hands / Arch from school emblem -->
+  <path d="M 22 45 C 18 36, 26 30, 34 40 L 44 58 C 45 60, 42 63, 40 61 L 28 48 C 26 46, 22 52, 22 68 L 22 74" fill="#008cd2"/>
+  <path d="M 78 45 C 82 36, 74 30, 66 40 L 56 58 C 55 60, 58 63, 60 61 L 72 48 C 74 46, 78 52, 78 68 L 78 74" fill="#008cd2"/>
+  <!-- Central figure -->
+  <circle cx="50" cy="58" r="7" fill="#1e293b"/>
+  <path d="M 50 66 C 45 66, 38 60, 37 63 C 36 66, 42 74, 45 77 L 42 88 L 47 88 L 50 79 L 53 88 L 58 88 L 55 77 C 58 74, 64 66, 63 63 C 62 60, 55 66, 50 66 Z" fill="#1e293b"/>
+  <!-- Projector beam symbol at top -->
+  <path d="M 40 24 L 60 24 L 64 32 L 36 32 Z" fill="#0284c7"/>
+  <circle cx="50" cy="28" r="2.5" fill="#ffffff"/>
+  <path d="M 48 33 L 36 40 M 52 33 L 64 40" stroke="#008cd2" stroke-width="1.5" stroke-linecap="round" stroke-dasharray="2 2"/>
+</svg>
